@@ -1,6 +1,6 @@
 {
     "name": "demo-v2",
-    "description": "Deploy demo-v2 on Heroku.",
+    "description": "Deploy demo",
     "keywords": ["demo-v2"],
     "env": {
         "ID": {
